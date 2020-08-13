@@ -1,4 +1,4 @@
 # biliComic-converter-TK
 *Convert .jpg.view file to .webp file*
 
-**Put ConverterGUI.py and the comic folder in the same folder**
+**注：把 ConverterGUI.py 和 漫画文件夹 放在同一个目录下**
